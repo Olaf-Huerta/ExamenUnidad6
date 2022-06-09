@@ -1,0 +1,10 @@
+
+Nombre: Camisa
+Descripción: Camisa de vestir talla M para hombre
+Precio: 200
+Cantidad: 2
+
+Nombre: Microfono
+Descripción: Razer 500X
+Precio: 2400
+Cantidad: 10

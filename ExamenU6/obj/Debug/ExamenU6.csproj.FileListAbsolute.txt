@@ -1,0 +1,7 @@
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\bin\Debug\ExamenU6.exe.config
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\bin\Debug\ExamenU6.exe
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\bin\Debug\ExamenU6.pdb
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\obj\Debug\ExamenU6.csproj.AssemblyReference.cache
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\obj\Debug\ExamenU6.csproj.CoreCompileInputs.cache
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\obj\Debug\ExamenU6.exe
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\ExamenU6\obj\Debug\ExamenU6.pdb
